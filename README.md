@@ -1,8 +1,8 @@
 
   P H O N E B O O K
   
-  [Phonebook V1](https://github.com/tecnico-softeng/phonebook-V1)
-  [Phonebook V2](https://github.com/tecnico-softeng/Phonebook-V2)
+  [Phonebook V1](https://github.com/tecnico-softeng/phonebook-V1)  
+  [Phonebook V2](https://github.com/tecnico-softeng/Phonebook-V2)  
 
   application example for the second delivery of es16
 
