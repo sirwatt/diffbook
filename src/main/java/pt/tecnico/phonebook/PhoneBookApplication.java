@@ -18,7 +18,6 @@ import pt.ist.fenixframework.FenixFramework;
 import pt.tecnico.phonebook.domain.PhoneBook;
 import pt.tecnico.phonebook.domain.Person;
 import pt.tecnico.phonebook.domain.Contact;
-import pt.tecnico.phonebook.domain.EmailContact;
 
 public class PhoneBookApplication {
     static final Logger log = LogManager.getRootLogger();
@@ -51,14 +50,14 @@ public class PhoneBookApplication {
         person = new Person(pb, "Manel");
         new Contact(person, "SOS", 112);
         new Contact(person, "IST", 214315112);
-        new EmailContact(person, "Xico", 911919191, "xico@outlook.pt");
+        new Contact(person, "Xico", 911919191);
         new Contact(person, "Zé", 966669999);
 
         person = new Person(pb, "Maria");
         new Contact(person, "SOS", 112);
         new Contact(person, "IST", 214315112);
-        new EmailContact(person, "Manel", 333333333, "manel@gmail.com");
-        new EmailContact(person, "Xana", 963456789, "xana@hotmail.com");
+        new Contact(person, "Manel", 333333333);
+        new Contact(person, "Xana", 963456789);
     }
 
     @Atomic
