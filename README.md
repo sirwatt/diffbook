@@ -7,13 +7,13 @@
   ___
 #V3
   
-  Application example for the third delivery of es16.
+Application example for the third delivery of es16.
 
-  Services and respective unit tests:
+Services and respective unit tests:
   - Find Phone Number
   - Find Persons with Contact
 
-  Presentation commands:
+Presentation commands:
   - Create person
   - Create contact
   - Delete person
@@ -22,12 +22,11 @@
   - Import xml
   - Export xml
 
-  System and integration tests:
+System and integration tests:
   - Integration test
   - System test
-
     
- __
+  ___
 #V2
  
   [Phonebook V1](https://github.com/tecnico-softeng/phonebook-V1)  
