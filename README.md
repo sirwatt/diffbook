@@ -1,3 +1,9 @@
+PDFs Projecto:
+  [Entrega 0](https://fenix.tecnico.ulisboa.pt/downloadFile/1970943312268892/es16p0.pdf)  |
+  [Entrega 1](https://fenix.tecnico.ulisboa.pt/downloadFile/563568428731757/es16p1.pdf) |
+  [Entrega 2](https://fenix.tecnico.ulisboa.pt/downloadFile/563568428736236/es16p2.pdf) |
+  [Entrega 3](https://fenix.tecnico.ulisboa.pt/downloadFile/845043405447749/es16p3.pdf)
+  
   P H O N E B O O K
   
   [Phonebook V3](https://github.com/tecnico-softeng/Phonebook-V3) |
