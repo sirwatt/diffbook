@@ -1,4 +1,4 @@
-package pt.tecnico.phonebook.integration;
+package pt.tecnico.phonebook.system;
 
 import static org.junit.Assert.assertEquals;
 
